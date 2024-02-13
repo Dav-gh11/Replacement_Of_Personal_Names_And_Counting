@@ -1,0 +1,18 @@
+{
+  "Text": " In the bustling coffee shop, <O> greeted her friend <O> with a warm hug. They were joined by <O>, who had just finished his morning jog. After, <O> and <O> chatted excitedly about their upcoming trip, while <O> listened intently, sipping on his latte. Soon, <O> arrived, followed by <O> and <O>. The group laughed and exchanged stories, enjoying each other's company. Later that day, <O> met up with <O> for lunch at their favorite sandwich spot. They were surprised to see <O> and <O> already there, enjoying a meal together. After lunch, <O> ran into <O> at the grocery store, and they exchanged quick hellos before going their separate ways. As the evening approached, <O> attended a party hosted by <O>. <O> and <O> were there, along with a crowd of familiar faces. <O> caught up with <O> and <O>, who introduced her to their friend, <O>. The night was filled with laughter and good conversation, as the group shared stories and made memories together.",
+  "ProperNouns": {
+    "Amanda": 2,
+    "David": 1,
+    "Emily": 2,
+    "Emma": 1,
+    "Jennifer": 2,
+    "Kevin": 1,
+    "Maria": 1,
+    "Matthew": 1,
+    "Michael": 3,
+    "Priya": 1,
+    "Rajesh": 1,
+    "Sarah": 6,
+    "Thomas": 1
+  }
+}
