@@ -4,6 +4,12 @@
 #include <map>
 #include "Functions.hpp"
 
+// Your efforts are noticed and appreciated. The code follows logic.
+// Make your files and code more structured, have a controller (main) which controls the flow of the program.
+// And try to keep the main function as little as possible, start to use <try-catch>. 
+// Choose one of the coding styles and follow it, this includes filenames and function names as well. Ex: CamelCase (readFile), snake_case(read_file)
+// Well done! 
+
 int main()
 {
     std::string line2;
@@ -12,6 +18,7 @@ int main()
     std::string all_file_info;
     if (!file.is_open())
     {
+        // try to use exceptions instead
         std::cout << "Error:" << std::endl;
         return 1;
     }
