@@ -50,6 +50,7 @@ std::string vec_to_string(std::vector<std::string> &str)
     return ans;
 }
 
+// check out Nlohmann's json library
 void writeJsonOutput(const std::string &filename, const std::string &input, const std::map<std::string, int> &nameCount)
 {
     std::ofstream ofs(filename);
